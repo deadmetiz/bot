@@ -1,0 +1,1 @@
+current = dict.fromkeys(['id', 'sec', 'message'], '0')
